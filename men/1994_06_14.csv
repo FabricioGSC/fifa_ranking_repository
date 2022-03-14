@@ -1,0 +1,160 @@
+pos,team,iso-alfa-3,total_points,previous_points,variation,positions
+1,Germany,GER,60,59,1.00,up
+2,Netherlands,NED,59,53,6.00,up
+3,Brazil,BRA,59,59,0.00,down
+4,Italy,ITA,57,50,7.00,up
+5,Spain,ESP,56,54,2.00,up
+6,Norway,NOR,56,56,0.00,down
+7,Romania,ROU,55,54,1.00,up
+8,Argentina,ARG,55,55,0.00,down
+9,Denmark,DEN,55,55,0.00,down
+10,Sweden,SWE,55,57,-2.00,down
+11,Nigeria,NGA,54,55,-1.00,down
+12,Switzerland,SUI,54,54,0.00,down
+13,France,FRA,53,50,3.00,up
+14,Republic of Ireland,IRL,53,52,1.00,down
+15,England,ENG,52,50,2.00,
+16,Mexico,MEX,51,51,0.00,down
+17,Colombia,COL,51,50,1.00,up
+18,Uruguay,URU,50,50,0.00,down
+19,Russia,RUS,50,49,1.00,up
+20,Zambia,ZAM,49,49,0.00,down
+21,Côte d'Ivoire,CIV,47,47,0.00,
+22,Portugal,POR,47,47,0.00,
+23,USA,USA,47,46,1.00,
+24,Cameroon,CMR,46,46,0.00,
+25,Egypt,EGY,45,45,0.00,
+26,Ghana,GHA,44,44,0.00,up
+27,Belgium,BEL,44,40,4.00,up
+28,Morocco,MAR,44,44,0.00,up
+29,Bulgaria,BUL,44,44,0.00,
+30,Tunisia,TUN,42,42,0.00,up
+31,Greece,GRE,41,41,0.00,up
+32,Poland,POL,41,44,-3.00,down
+33,Scotland,SCO,40,44,-4.00,down
+34,Saudi Arabia,KSA,40,39,1.00,up
+35,Wales,WAL,39,39,0.00,up
+36,Austria,AUT,38,36,2.00,up
+37,Korea Republic,KOR,38,37,1.00,
+38,Iceland,ISL,38,37,1.00,up
+39,Ecuador,ECU,37,34,3.00,up
+40,Chile,CHI,37,37,0.00,
+41,Northern Ireland,NIR,37,41,-4.00,down
+42,Zimbabwe,ZIM,35,36,-1.00,
+43,Bolivia,BOL,35,35,0.00,
+44,Slovakia,SVK,35,34,1.00,up
+45,Czech Republic,CZE,35,28,7.00,up
+46,Finland,FIN,35,37,-2.00,down
+47,Australia,AUS,34,35,-1.00,down
+48,Algeria,ALG,34,34,0.00,down
+49,Mali,MLI,34,34,0.00,down
+50,Honduras,HON,34,33,1.00,up
+51,Costa Rica,CRC,34,34,0.00,down
+52,Japan,JPN,33,32,1.00,up
+53,Israel,ISR,32,33,-1.00,down
+54,Canada,CAN,31,29,2.00,up
+55,Senegal,SEN,31,31,0.00,
+56,Hungary,HUN,31,34,-3.00,down
+57,Turkey,TUR,31,31,0.00,down
+58,IR Iran,IRN,30,30,0.00,down
+59,China PR,CHN,29,33,-4.00,down
+60,Paraguay,PAR,28,28,0.00,
+61,Guinea,GUI,26,26,0.00,up
+62,United Arab Emirates,UAE,26,26,0.00,up
+63,Zaire,ZAI,26,26,0.00,up
+64,Gabon,GAB,26,26,0.00,up
+65,Iraq,IRQ,26,28,-2.00,down
+66,Sierra Leone,SLE,24,24,0.00,up
+67,Peru,PER,24,24,0.00,up
+68,El Salvador,SLV,23,23,0.00,up
+69,Qatar,QAT,23,23,0.00,up
+70,Jamaica,JAM,23,23,0.00,up
+71,Korea DPR,PRK,23,23,0.00,up
+72,Malta,MLT,22,22,0.00,up
+73,Cyprus,CYP,22,22,0.00,up
+74,Kuwait,KUW,22,25,-3.00,down
+75,Thailand,THA,22,24,-2.00,down
+76,South Africa,RSA,21,21,0.00,up
+77,Oman,OMA,21,21,0.00,up
+78,Yugoslavia,YUG,21,22,-1.00,down
+79,Slovenia,SVN,21,19,2.00,up
+80,Malawi,MWI,21,21,0.00,
+81,Niger,NIG,21,21,0.00,
+82,Kenya,KEN,20,20,0.00,
+83,Ukraine,UKR,20,16,4.00,up
+84,Trinidad and Tobago,TRI,20,20,0.00,up
+85,Latvia,LVA,19,17,2.00,up
+86,Syria,SYR,19,19,0.00,
+87,Singapore,SIN,19,20,-1.00,down
+88,Lithuania,LTU,19,18,1.00,
+89,Bermuda,BER,17,18,-1.00,up
+90,New Zealand,NZL,17,21,-4.00,down
+91,Croatia,CRO,17,13,4.00,up
+92,Bahrain,BHR,15,20,-5.00,down
+93,Suriname,SUR,15,15,0.00,up
+94,Venezuela,VEN,15,16,-1.00,up
+95,Malaysia,MAS,15,18,-3.00,down
+96,Jordan,JOR,15,17,-2.00,down
+97,Fiji,FIJ,14,12,2.00,up
+98,Barbados,BRB,14,14,0.00,up
+99,Tanzania,TAN,14,14,0.00,down
+100,Eswatini,SWZ,13,13,0.00,
+101,Uganda,UGA,13,13,0.00,
+102,Burkina Faso,BFA,13,13,0.00,up
+103,Yemen,YEM,13,16,-3.00,down
+104,Albania,ALB,13,15,-2.00,down
+105,India,IND,13,13,0.00,down
+106,Madagascar,MAD,13,13,0.00,down
+107,Puerto Rico,PUR,12,12,0.00,down
+108,Mozambique,MOZ,12,10,2.00,up
+109,Hong Kong,HKG,12,12,0.00,down
+110,Gambia,GAM,12,12,0.00,down
+111,Burundi,BDI,12,12,0.00,down
+112,Estonia,EST,12,11,1.00,up
+113,Congo,CGO,11,11,0.00,down
+114,Ethiopia,ETH,11,11,0.00,up
+115,Myanmar,MYA,10,11,-1.00,down
+116,Guinea-Bissau,GNB,10,10,0.00,up
+117,Luxembourg,LUX,10,11,-1.00,down
+118,FYR Macedonia,MKD,10,3,7.00,up
+119,Lebanon,LBN,10,11,-1.00,down
+120,Indonesia,IDN,9,11,-2.00,down
+121,Antigua and Barbuda,ATG,9,9,0.00,down
+122,Haiti,HAI,9,9,0.00,down
+123,Togo,TOG,9,9,0.00,
+124,Angola,ANG,9,9,0.00,
+125,Faroe Islands,FRO,8,9,-1.00,down
+126,Georgia,GEO,8,8,0.00,up
+127,Sri Lanka,SRI,8,8,0.00,down
+128,Nepal,NEP,8,8,0.00,down
+129,Sudan,SDN,8,8,0.00,down
+130,Bangladesh,BAN,8,8,0.00,down
+131,Panama,PAN,7,7,0.00,down
+132,San Marino,SMR,7,7,0.00,down
+133,Grenada,GRN,7,7,0.00,
+134,Guatemala,GUA,7,7,0.00,down
+135,St. Vincent and the Grenadines,VIN,7,7,0.00,down
+136,Liberia,LBR,6,7,-1.00,down
+138,Benin,BEN,6,6,0.00,down
+139,Mauritius,MRI,5,5,0.00,down
+140,Tahiti,TAH,5,4,1.00,up
+141,Cayman Islands,CAY,4,4,0.00,down
+142,Belarus,BLR,4,4,0.00,
+143,Vietnam,VIE,4,5,-1.00,down
+144,Lesotho,LES,4,4,0.00,down
+145,Guyana,GUY,4,4,0.00,down
+146,St. Lucia,LCA,4,4,0.00,down
+147,Pakistan,PAK,4,4,0.00,down
+148,Botswana,BOT,3,3,0.00,
+149,Moldova,MDA,3,3,0.00,
+150,Mauritania,MTN,3,3,0.00,
+151,Liechtenstein,LIE,2,1,1.00,up
+152,Maldives,MDV,2,2,0.00,
+153,Cape Verde Islands,CPV,2,2,0.00,
+154,Laos,LAO,2,2,0.00,down
+155,Solomon Islands,SOL,2,2,0.00,down
+156,Dominican Republic,DOM,1,1,0.00,
+157,Libya,LBY,1,1,0.00,
+158,Brunei Darussalam,BRU,1,2,-1.00,down
+159,Armenia,ARM,1,0,1.00,
+160,Nicaragua,NCA,1,1,0.00,down

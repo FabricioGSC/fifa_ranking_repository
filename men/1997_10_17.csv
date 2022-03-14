@@ -1,0 +1,188 @@
+pos,team,iso-alfa-3,total_points,previous_points,variation,positions
+1,Brazil,BRA,72,72,0.00,
+2,Spain,ESP,65,61,4.00,up
+3,Germany,GER,63,63,0.00,down
+4,Czech Republic,CZE,62,58,4.00,up
+5,Romania,ROU,62,63,-1.00,down
+6,Denmark,DEN,61,62,-1.00,down
+7,England,ENG,61,61,0.00,
+8,Netherlands,NED,61,62,-1.00,down
+9,Russia,RUS,60,58,2.00,up
+10,Mexico,MEX,60,59,1.00,up
+11,Colombia,COL,60,60,0.00,down
+12,Norway,NOR,59,61,-2.00,down
+13,Argentina,ARG,58,59,-1.00,down
+14,France,FRA,58,57,1.00,up
+15,Morocco,MAR,58,58,0.00,
+16,Italy,ITA,58,59,-1.00,down
+17,Sweden,SWE,57,55,2.00,up
+18,Bulgaria,BUL,57,58,-1.00,down
+19,Zambia,ZAM,56,56,0.00,
+20,Japan,JPN,56,57,-1.00,down
+21,Portugal,POR,55,55,0.00,up
+22,Bolivia,BOL,55,55,0.00,up
+23,Austria,AUT,55,54,1.00,up
+24,Tunisia,TUN,55,56,-1.00,down
+25,Scotland,SCO,54,54,0.00,up
+26,South Africa,RSA,54,55,-1.00,down
+27,Chile,CHI,54,53,1.00,up
+28,Paraguay,PAR,54,54,0.00,
+29,Croatia,CRO,53,51,2.00,up
+30,Slovakia,SVK,53,55,-2.00,down
+31,Ecuador,ECU,53,53,0.00,down
+32,Egypt,EGY,53,52,1.00,down
+33,Australia,AUS,53,51,2.00,up
+34,Korea Republic,KOR,52,51,1.00,up
+35,USA,USA,52,52,0.00,down
+36,Yugoslavia,YUG,52,51,1.00,up
+37,Saudi Arabia,KSA,51,50,1.00,up
+38,Peru,PER,51,51,0.00,down
+39,Turkey,TUR,51,50,1.00,
+40,Jamaica,JAM,51,49,2.00,
+41,Greece,GRE,50,49,1.00,
+42,Lithuania,LTU,48,48,0.00,up
+43,Republic of Ireland,IRL,47,48,-1.00,down
+44,Cameroon,CMR,47,47,0.00,
+45,Poland,POL,47,46,1.00,up
+46,Côte d'Ivoire,CIV,47,47,0.00,
+47,Kuwait,KUW,46,46,0.00,up
+48,Belgium,BEL,46,46,0.00,
+49,IR Iran,IRN,46,44,2.00,up
+50,Ghana,GHA,46,47,-1.00,down
+51,Ukraine,UKR,46,45,1.00,up
+52,Uruguay,URU,45,47,-2.00,down
+53,Algeria,ALG,45,45,0.00,down
+54,China PR,CHN,44,44,0.00,up
+55,Angola,ANG,44,44,0.00,up
+56,Costa Rica,CRC,44,44,0.00,down
+57,Trinidad and Tobago,TRI,43,43,0.00,up
+58,Israel,ISR,43,44,-1.00,down
+59,Finland,FIN,43,42,1.00,up
+60,United Arab Emirates,UAE,43,40,3.00,up
+61,Honduras,HON,42,44,-2.00,down
+62,Canada,CAN,42,44,-2.00,down
+63,Gabon,GAB,42,42,0.00,down
+64,Switzerland,SUI,42,41,1.00,up
+65,Thailand,THA,42,39,3.00,up
+66,Guinea,GUI,41,42,-1.00,down
+67,Nigeria,NGA,41,42,-1.00,down
+68,Hungary,HUN,40,39,1.00,up
+69,Mozambique,MOZ,40,40,0.00,down
+70,El Salvador,SLV,40,38,2.00,up
+71,Iceland,ISL,39,36,3.00,up
+72,Zimbabwe,ZIM,39,41,-2.00,down
+73,Latvia,LVA,38,39,-1.00,down
+74,Georgia,GEO,38,32,6.00,up
+75,Northern Ireland,NIR,38,38,0.00,down
+76,Iraq,IRQ,38,38,0.00,down
+77,Cyprus,CYP,38,36,2.00,up
+78,Zaire,ZAI,37,37,0.00,
+79,Togo,TOG,37,38,-1.00,down
+80,Sierra Leone,SLE,37,37,0.00,down
+81,Senegal,SEN,36,38,-2.00,down
+82,FYR Macedonia,MKD,36,36,0.00,down
+83,Uzbekistan,UZB,35,36,-1.00,down
+84,Malaysia,MAS,35,33,2.00,up
+85,Namibia,NAM,35,35,0.00,down
+86,Mali,MLI,35,38,-3.00,down
+87,Oman,OMA,35,35,0.00,down
+88,Guatemala,GUA,35,33,2.00,up
+89,Lebanon,LBN,34,34,0.00,down
+90,Slovenia,SVN,33,33,0.00,up
+91,Malawi,MWI,33,33,0.00,down
+92,Kenya,KEN,33,30,3.00,up
+93,Liberia,LBR,33,33,0.00,down
+94,Tanzania,TAN,33,33,0.00,down
+95,Uganda,UGA,32,32,0.00,
+96,Qatar,QAT,32,35,-3.00,down
+97,Congo,CGO,31,31,0.00,down
+98,Wales,WAL,31,31,0.00,
+99,Syria,SYR,31,31,0.00,down
+100,Indonesia,IDN,30,26,4.00,up
+101,Bosnia and Herzegovina,BIH,30,29,1.00,up
+102,Estonia,EST,30,30,0.00,
+103,Cuba,CUB,29,30,-1.00,down
+104,Sudan,SDN,29,30,-1.00,down
+105,Armenia,ARM,28,29,-1.00,down
+106,Burkina Faso,BFA,27,27,0.00,down
+107,Singapore,SIN,27,24,3.00,up
+108,Belarus,BLR,27,27,0.00,down
+109,India,IND,26,23,3.00,up
+110,Grenada,GRN,26,26,0.00,down
+111,Barbados,BRB,26,26,0.00,down
+112,Kazakhstan,KAZ,26,21,5.00,up
+113,Albania,ALB,26,24,2.00,up
+114,Panama,PAN,25,26,-1.00,down
+115,Venezuela,VEN,25,26,-1.00,down
+116,Faroe Islands,FRO,24,23,1.00,up
+117,Myanmar,MYA,24,20,4.00,up
+118,Tajikistan,TJK,24,24,0.00,down
+119,Vietnam,VIE,23,22,1.00,up
+120,New Zealand,NZL,23,24,-1.00,down
+121,Bahrain,BHR,23,24,-1.00,down
+122,St. Vincent and the Grenadines,VIN,22,23,-1.00,down
+123,Jordan,JOR,21,21,0.00,
+124,Azerbaijan,AZE,21,21,0.00,down
+125,Ethiopia,ETH,20,21,-1.00,down
+126,Malta,MLT,20,20,0.00,up
+127,Moldova,MDA,20,20,0.00,down
+128,St. Kitts and Nevis,SKN,19,19,0.00,
+129,Yemen,YEM,19,19,0.00,
+130,Hong Kong,HKG,19,19,0.00,
+131,Solomon Islands,SOL,18,18,0.00,
+132,Haiti,HAI,18,18,0.00,up
+133,Mauritania,MTN,18,18,0.00,down
+134,Turkmenistan,TKM,18,18,0.00,down
+135,Benin,BEN,18,17,1.00,up
+136,Sri Lanka,SRI,17,16,1.00,up
+137,Luxembourg,LUX,17,18,-1.00,down
+138,Bangladesh,BAN,16,16,0.00,up
+139,Dominica,DMA,16,16,0.00,down
+140,Kyrgyz Republic,KGZ,16,16,0.00,down
+141,St. Lucia,LCA,15,15,0.00,
+142,Gambia,GAM,14,14,0.00,
+143,Dominican Republic,DOM,13,13,0.00,
+144,Fiji,FIJ,13,13,0.00,
+145,Libya,LBY,13,5,8.00,up
+146,Suriname,SUR,12,12,0.00,down
+147,Niger,NIG,12,12,0.00,down
+148,Guinea-Bissau,GNB,12,12,0.00,down
+149,Laos,LAO,11,8,3.00,up
+150,Mauritius,MRI,11,11,0.00,down
+151,Burundi,BDI,10,10,0.00,down
+152,Pakistan,PAK,10,4,6.00,up
+153,Chinese Taipei,TPE,9,9,0.00,down
+154,Nepal,NEP,9,9,0.00,down
+156,Lesotho,LES,8,8,0.00,down
+157,Antigua and Barbuda,ATG,8,8,0.00,down
+158,Macau,MAC,8,8,0.00,down
+159,Liechtenstein,LIE,8,8,0.00,down
+160,Maldives,MDV,8,2,6.00,up
+161,Cayman Islands,CAY,8,8,0.00,down
+162,Tahiti,TAH,8,8,0.00,down
+163,Botswana,BOT,8,8,0.00,down
+164,Madagascar,MAD,8,8,0.00,down
+165,Korea DPR,PRK,7,8,-1.00,down
+166,Puerto Rico,PUR,7,7,0.00,down
+167,Papua New Guinea,PNG,6,7,-1.00,down
+168,Guyana,GUY,6,6,0.00,down
+169,Cambodia,CAM,6,3,3.00,up
+170,Cape Verde Islands,CPV,6,6,0.00,down
+171,San Marino,SMR,6,6,0.00,down
+172,Tonga,TGA,6,6,0.00,down
+173,Rwanda,RWA,5,5,0.00,down
+174,Eswatini,SWZ,5,6,-1.00,down
+175,Bermuda,BER,5,5,0.00,down
+176,Philippines,PHI,4,4,0.00,down
+177,Aruba,ARU,4,4,0.00,down
+178,Belize,BLZ,3,3,0.00,down
+179,Brunei Darussalam,BRU,3,3,0.00,down
+180,British Virgin Islands,VGB,3,3,0.00,down
+181,Samoa,SAM,3,3,0.00,down
+182,Seychelles,SEY,3,3,0.00,down
+183,Nicaragua,NCA,2,2,0.00,down
+184,Chad,CHA,2,0,2.00,up
+185,Andorra,AND,2,2,0.00,
+186,Vanuatu,VAN,2,2,0.00,down
+187,Somalia,SOM,2,2,0.00,down
+188,Central African Republic,CTA,1,1,0.00,down

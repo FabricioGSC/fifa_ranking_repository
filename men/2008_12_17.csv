@@ -1,0 +1,201 @@
+pos,team,iso-alfa-3,total_points,previous_points,variation,positions
+1,Spain,ESP,1663,1657,6.00,
+2,Germany,GER,1381,1413,-32.00,
+3,Netherlands,NED,1338,1306,32.00,up
+4,Italy,ITA,1326,1356,-30.00,down
+5,Brazil,BRA,1246,1286,-40.00,
+6,Argentina,ARG,1180,1181,-1.00,
+7,Croatia,CRO,1142,1158,-16.00,
+8,England,ENG,1115,1058,57.00,up
+9,Russia,RUS,1103,1079,24.00,down
+10,Turkey,TUR,1016,1032,-16.00,up
+11,Czech Republic,CZE,1007,1062,-55.00,down
+11,France,FRA,1007,1035,-28.00,up
+11,Portugal,POR,1007,1058,-51.00,down
+14,Cameroon,CMR,989,1013,-24.00,
+15,Ukraine,UKR,909,883,26.00,up
+16,Egypt,EGY,894,879,15.00,up
+17,Paraguay,PAR,889,934,-45.00,
+18,Israel,ISR,877,1004,-127.00,down
+19,Nigeria,NGA,876,852,24.00,up
+20,Greece,GRE,872,907,-35.00,down
+21,Romania,ROU,858,892,-34.00,down
+22,USA,USA,853,834,19.00,up
+23,Uruguay,URU,828,838,-10.00,
+24,Switzerland,SUI,824,799,25.00,up
+25,Ghana,GHA,815,805,10.00,up
+26,Mexico,MEX,811,827,-16.00,down
+27,Bulgaria,BUL,782,951,-169.00,down
+28,Australia,AUS,777,739,38.00,up
+29,Côte d'Ivoire,CIV,771,780,-9.00,down
+30,Serbia,SRB,761,775,-14.00,
+31,Chile,CHI,757,753,4.00,up
+32,Sweden,SWE,748,776,-28.00,down
+33,Scotland,SCO,739,761,-22.00,
+34,Poland,POL,735,765,-30.00,down
+35,Japan,JPN,734,722,12.00,up
+36,Ecuador,ECU,729,771,-42.00,down
+37,Denmark,DEN,716,757,-41.00,down
+38,Republic of Ireland,IRL,711,751,-40.00,down
+39,Guinea,GUI,701,691,10.00,
+40,Honduras,HON,689,623,66.00,up
+41,Morocco,MAR,649,646,3.00,up
+42,Korea Republic,KOR,631,589,42.00,up
+43,IR Iran,IRN,626,642,-16.00,up
+44,Slovakia,SVK,621,627,-6.00,up
+45,Mali,MLI,615,603,12.00,up
+46,Tunisia,TUN,605,613,-8.00,up
+47,Hungary,HUN,603,551,52.00,up
+48,Saudi Arabia,KSA,600,590,10.00,up
+49,Colombia,COL,597,686,-89.00,down
+50,Senegal,SEN,587,593,-6.00,up
+51,Lithuania,LTU,583,677,-94.00,down
+52,Northern Ireland,NIR,580,670,-90.00,down
+53,Costa Rica,CRC,578,542,36.00,up
+54,Belgium,BEL,548,571,-23.00,up
+55,Finland,FIN,535,611,-76.00,down
+56,FYR Macedonia,MKD,533,603,-70.00,down
+57,Slovenia,SVN,532,541,-9.00,up
+58,Bolivia,BOL,528,463,65.00,up
+59,Norway,NOR,526,572,-46.00,down
+60,Wales,WAL,522,518,4.00,up
+61,Bosnia and Herzegovina,BIH,517,492,25.00,up
+62,Burkina Faso,BFA,512,521,-9.00,down
+62,Gabon,GAB,512,535,-23.00,down
+64,Algeria,ALG,501,514,-13.00,down
+65,Jamaica,JAM,487,421,66.00,up
+65,Venezuela,VEN,487,497,-10.00,up
+67,Latvia,LVA,485,500,-15.00,down
+68,Congo,CGO,484,475,9.00,up
+68,Kenya,KEN,484,413,71.00,up
+70,Angola,ANG,482,476,6.00,down
+71,Uganda,UGA,468,421,47.00,up
+72,Iraq,IRQ,463,452,11.00,up
+72,Uzbekistan,UZB,463,449,14.00,up
+72,Zambia,ZAM,463,463,0.00,down
+75,Peru,PER,462,464,-2.00,down
+76,South Africa,RSA,461,442,19.00,up
+77,Trinidad and Tobago,TRI,459,443,16.00,up
+78,Rwanda,RWA,450,406,44.00,up
+79,Cuba,CUB,439,460,-21.00,down
+80,Bahrain,BHR,428,453,-25.00,down
+81,Albania,ALB,424,410,14.00,up
+82,Libya,LBY,423,405,18.00,up
+83,Iceland,ISL,421,423,-2.00,down
+84,Belarus,BLR,420,507,-87.00,down
+84,Qatar,QAT,420,443,-23.00,down
+86,New Zealand,NZL,419,532,-113.00,down
+86,Togo,TOG,419,396,23.00,up
+88,Panama,PAN,413,404,9.00,up
+88,Gambia,GAM,413,400,13.00,up
+90,Canada,CAN,410,434,-24.00,down
+91,Congo DR,COD,401,388,13.00,up
+92,Austria,AUT,388,391,-3.00,
+93,Sudan,SDN,385,360,25.00,up
+94,Cyprus,CYP,376,337,39.00,up
+95,Mozambique,MOZ,375,391,-16.00,down
+96,Oman,OMA,374,385,-11.00,down
+97,Zimbabwe,ZIM,373,375,-2.00,
+97,Moldova,MDA,373,449,-76.00,down
+99,Tanzania,TAN,372,341,31.00,up
+100,China PR,CHN,368,371,-3.00,down
+101,Benin,BEN,362,385,-23.00,down
+102,Haiti,HAI,357,341,16.00,up
+103,Ethiopia,ETH,348,348,0.00,down
+104,Malawi,MWI,342,346,-4.00,down
+105,Syria,SYR,337,344,-7.00,down
+106,Fiji,FIJ,333,200,133.00,up
+107,Cape Verde Islands,CPV,332,303,29.00,up
+108,Georgia,GEO,328,363,-35.00,down
+109,Guatemala,GUA,327,321,6.00,down
+110,United Arab Emirates,UAE,320,299,21.00,up
+111,El Salvador,SLV,315,306,9.00,down
+112,Montenegro,MNE,310,285,25.00,up
+113,Armenia,ARM,303,304,-1.00,down
+113,Korea DPR,PRK,303,301,2.00,down
+115,Namibia,NAM,287,290,-3.00,down
+116,Sierra Leone,SLE,286,253,33.00,up
+117,Botswana,BOT,283,279,4.00,up
+118,Grenada,GRN,269,199,70.00,up
+119,Chad,CHA,260,260,0.00,up
+119,Estonia,EST,260,235,25.00,up
+121,Luxembourg,LUX,259,245,14.00,up
+122,Barbados,BRB,258,361,-103.00,down
+123,Equatorial Guinea,EQG,257,276,-19.00,down
+124,Jordan,JOR,250,282,-32.00,down
+124,Bermuda,BER,250,251,-1.00,up
+126,Thailand,THA,248,283,-35.00,down
+127,Kuwait,KUW,242,243,-1.00,up
+128,Antigua and Barbuda,ATG,238,216,22.00,up
+129,Suriname,SUR,231,239,-8.00,
+130,New Caledonia,NCL,229,275,-46.00,down
+131,Guyana,GUY,226,283,-57.00,down
+132,Singapore,SIN,219,207,12.00,up
+133,St. Vincent / Grenadines,VIN,216,266,-50.00,down
+134,Azerbaijan,AZE,209,208,1.00,
+135,Madagascar,MAD,207,208,-1.00,down
+136,Burundi,BDI,204,237,-33.00,down
+137,Kazakhstan,KAZ,199,252,-53.00,down
+138,Swaziland,SWZ,190,181,9.00,up
+139,Indonesia,IDN,179,221,-42.00,down
+139,Liberia,LBR,179,179,0.00,up
+141,Vanuatu,VAN,176,175,1.00,up
+142,Puerto Rico,PUR,173,180,-7.00,down
+143,India,IND,168,174,-6.00,up
+143,Niger,NIG,168,158,10.00,up
+145,Yemen,YEM,167,169,-2.00,
+146,Tajikistan,TJK,162,163,-1.00,
+147,Malta,MLT,151,153,-2.00,up
+148,Turkmenistan,TKM,149,156,-7.00,
+149,Liechtenstein,LIE,147,145,2.00,up
+150,Lebanon,LBN,146,154,-8.00,down
+151,Hong Kong,HKG,139,124,15.00,up
+152,St. Kitts and Nevis,SKN,128,105,23.00,up
+152,Netherlands Antilles,ANT,128,128,0.00,up
+154,Maldives,MDV,127,133,-6.00,down
+155,Vietnam,VIE,122,115,7.00,up
+156,Malaysia,MAS,120,152,-32.00,down
+156,Myanmar,MYA,120,116,4.00,up
+158,Kyrgyz Republic,KGZ,112,129,-17.00,down
+158,Mauritania,MTN,112,112,0.00,up
+160,Philippines,PHI,108,118,-10.00,down
+161,Lesotho,LES,106,109,-3.00,
+162,Eritrea,ERI,103,200,-97.00,down
+163,Solomon Islands,SOL,100,100,0.00,up
+163,Sri Lanka,SRI,100,91,9.00,up
+165,Pakistan,PAK,92,90,2.00,up
+166,Seychelles,SEY,91,91,0.00,
+167,Chinese Taipei,TPE,85,82,3.00,up
+168,Turks and Caicos Islands,TCA,83,83,0.00,up
+169,Laos,LAO,80,108,-28.00,down
+170,Mauritius,MRI,74,74,0.00,up
+170,Bahamas,BAH,74,81,-7.00,up
+172,Cayman Islands,CAY,73,101,-28.00,down
+173,Belize,BLZ,71,71,0.00,up
+174,Bangladesh,BAN,70,54,16.00,up
+174,Nepal,NEP,70,67,3.00,up
+176,St. Lucia,LCA,64,75,-11.00,down
+176,Samoa,SAM,64,64,0.00,up
+178,Cambodia,CAM,56,72,-16.00,down
+179,Palestine,PLE,52,47,5.00,up
+180,British Virgin Islands,VGB,50,67,-17.00,down
+181,Nicaragua,NCA,45,45,0.00,up
+181,Brunei Darussalam,BRU,45,52,-7.00,up
+183,Afghanistan,AFG,44,47,-3.00,
+184,Faroe Islands,FRO,42,37,5.00,up
+185,Dominican Republic,DOM,40,66,-26.00,down
+186,Guinea-Bissau,GNB,38,72,-34.00,down
+187,Bhutan,BHU,33,32,1.00,
+188,Djibouti,DJI,32,32,0.00,down
+188,Tahiti,TAH,32,32,0.00,down
+188,Tonga,TGA,32,32,0.00,down
+191,Dominica,DMA,25,25,0.00,
+192,Mongolia,MNG,24,24,0.00,
+193,Aruba,ARU,22,22,0.00,
+194,Andorra,AND,20,19,1.00,
+195,US Virgin Islands,VIR,17,17,0.00,
+196,Macau,MAC,10,10,0.00,up
+197,Timor-Leste,TLS,9,9,0.00,up
+198,Comoros,COM,8,13,-5.00,down
+199,Central African Republic,CTA,6,6,0.00,up
+200,Somalia,SOM,5,8,-3.00,down

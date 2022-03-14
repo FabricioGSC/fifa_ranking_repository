@@ -1,0 +1,114 @@
+pos,team,iso-alfa-3,total_points,previous_points,variation,positions
+1,USA,USA,2171,2170,1.00,
+2,Norway,NOR,2159,2160,-1.00,
+3,Germany,GER,2155,2153,2.00,
+4,China PR,CHN,2110,2110,0.00,
+5,Sweden,SWE,2073,2074,-1.00,
+6,Brazil,BRA,2030,2037,-7.00,
+7,Korea DPR,PRK,2004,2004,0.00,
+8,Denmark,DEN,1967,1967,0.00,
+9,France,FRA,1964,1964,0.00,
+10,Italy,ITA,1941,1943,-2.00,
+11,Russia,RUS,1893,1899,-6.00,
+12,Canada,CAN,1870,1867,3.00,
+13,England,ENG,1860,1860,0.00,
+14,Japan,JPN,1853,1850,3.00,
+15,Australia,AUS,1839,1840,-1.00,
+16,Netherlands,NED,1814,1814,0.00,
+17,Iceland,ISL,1788,1782,6.00,
+18,Ukraine,UKR,1778,1779,-1.00,
+19,Spain,ESP,1767,1767,0.00,
+20,Finland,FIN,1765,1762,3.00,
+21,New Zealand,NZL,1760,1760,0.00,
+22,Chinese Taipei,TPE,1746,1746,0.00,
+23,Nigeria,NGA,1740,1738,2.00,
+24,Czech Republic,CZE,1737,1737,0.00,
+25,Korea Republic,KOR,1724,1728,-4.00,
+26,Hungary,HUN,1723,1723,0.00,
+27,Belgium,BEL,1717,1717,0.00,
+28,Yugoslavia,YUG,1709,1709,0.00,
+29,Switzerland,SUI,1703,1703,0.00,
+30,Scotland,SCO,1693,1691,2.00,
+31,Mexico,MEX,1680,1671,9.00,
+32,Poland,POL,1671,1671,0.00,down
+33,Portugal,POR,1666,1666,0.00,
+34,Romania,ROU,1650,1650,0.00,
+35,Argentina,ARG,1620,1624,-4.00,
+36,Slovakia,SVK,1615,1615,0.00,
+36,Colombia,COL,1615,1615,0.00,
+38,Republic of Ireland,IRL,1613,1613,0.00,
+39,Peru,PER,1603,1603,0.00,
+40,Trinidad and Tobago,TRI,1595,1595,0.00,
+41,Thailand,THA,1587,1587,0.00,
+42,Belarus,BLR,1579,1579,0.00,
+43,Vietnam,VIE,1569,1569,0.00,
+44,Croatia,CRO,1568,1568,0.00,
+45,Costa Rica,CRC,1545,1550,-5.00,
+46,Myanmar,MYA,1538,1538,0.00,
+47,Bulgaria,BUL,1529,1529,0.00,
+48,Austria,AUT,1522,1522,0.00,
+49,Uzbekistan,UZB,1505,1505,0.00,
+50,Chile,CHI,1487,1487,0.00,
+51,Ecuador,ECU,1473,1473,0.00,
+52,Ghana,GHA,1462,1458,4.00,up
+52,Morocco,MAR,1462,1462,0.00,
+54,Tonga,TGA,1461,0,1461.00,down
+55,Haiti,HAI,1457,1458,-1.00,down
+56,Wales,WAL,1440,1440,0.00,down
+57,India,IND,1436,1436,0.00,down
+58,Greece,GRE,1423,1425,-2.00,down
+59,Papua New Guinea,PNG,1418,1412,6.00,
+60,Indonesia,IDN,1416,1416,0.00,down
+61,Kazakhstan,KAZ,1404,1404,0.00,down
+62,South Africa,RSA,1372,1372,0.00,down
+63,Mali,MLI,1370,1370,0.00,down
+64,Panama,PAN,1368,1368,0.00,down
+65,Hong Kong,HKG,1356,1356,0.00,down
+66,Paraguay,PAR,1354,1354,0.00,down
+67,Guam,GUM,1351,1352,-1.00,down
+68,Uruguay,URU,1347,1347,0.00,down
+69,Turkey,TUR,1344,1344,0.00,down
+70,Fiji,FIJ,1340,0,1340.00,down
+71,Malaysia,MAS,1332,1337,-5.00,down
+72,Israel,ISR,1312,1302,10.00,down
+73,Jamaica,JAM,1305,1305,0.00,down
+74,Malta,MLT,1304,0,1304.00,down
+75,Guatemala,GUA,1290,1290,0.00,down
+76,Venezuela,VEN,1287,1287,0.00,down
+77,Northern Ireland,NIR,1265,1265,0.00,down
+78,Philippines,PHI,1257,1257,0.00,down
+79,Ethiopia,ETH,1234,1234,0.00,down
+80,Estonia,EST,1225,1235,-10.00,down
+81,Bosnia and Herzegovina,BIH,1217,1217,0.00,down
+82,Bolivia,BOL,1216,1216,0.00,down
+83,Cameroon,CMR,1215,1215,0.00,down
+84,Vanuatu,VAN,1208,0,1208.00,down
+85,Suriname,SUR,1200,1200,0.00,down
+86,Dominica,DMA,1199,1199,0.00,down
+87,Singapore,SIN,1198,1194,4.00,down
+88,Honduras,HON,1194,1194,0.00,down
+89,Moldova,MDA,1190,1190,0.00,down
+90,Nicaragua,NCA,1178,1178,0.00,down
+91,Angola,ANG,1172,1172,0.00,down
+92,Zimbabwe,ZIM,1165,1165,0.00,down
+93,El Salvador,SLV,1160,1160,0.00,down
+94,St. Lucia,LCA,1158,1158,0.00,down
+95,Tahiti,TAH,1155,0,1155.00,down
+96,Cook Islands,COK,1143,1143,0.00,down
+97,Dominican Republic,DOM,1138,1138,0.00,down
+97,St. Vincent and the Grenadines,VIN,1138,1138,0.00,down
+99,Samoa,SAM,1122,1122,0.00,down
+100,Armenia,ARM,1115,1115,0.00,down
+101,Bahamas,BAH,1111,1111,0.00,down
+102,Senegal,SEN,1092,1092,0.00,down
+103,Nepal,NEP,1063,1063,0.00,down
+104,Eswatini,SWZ,1044,1044,0.00,down
+105,Puerto Rico,PUR,1036,1036,0.00,down
+106,Zambia,ZAM,1027,1027,0.00,down
+107,Botswana,BOT,1026,1026,0.00,down
+107,Mozambique,MOZ,1026,1026,0.00,down
+109,Gabon,GAB,1023,1023,0.00,down
+109,Cyprus,CYP,1023,1023,0.00,down
+111,Bermuda,BER,1012,1012,0.00,down
+112,Belize,BLZ,917,917,0.00,down
+113,Cayman Islands,CAY,902,902,0.00,down
