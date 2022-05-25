@@ -18,7 +18,7 @@ def main():
     time.sleep(5.0)
     men_ranking()
     women_ranking()
-    convert_csv.convert
+    convert_csv.convert()
     
 
 def men_ranking():
@@ -41,7 +41,10 @@ def download(origin: str):
 
     driver.maximize_window()
 
-    drops = driver.find_elements(By.CLASS_NAME, 'ff-dropdown_dropupContentButton__3WmBL')
+    drops = driver.find_elements(By.TAG_NAME, 'button')
+    
+    drops = list(filter(lambda x: ('ff-dropdown_dropupContentButton' in x.get_attribute('class')) , drops))
+    
     print(f'We\'ve found {len(drops)} updates from this website')
 
     selector = driver.find_element(By.CSS_SELECTOR, '.card-heading-tiny')
@@ -76,10 +79,16 @@ def check_button_of_trust():
         
 
 def check_if_already_exists(date_value: str, origin: str) -> bool:
-    print(date_value)
+
+    date_as_file_value = convert_csv.change_order_name(date_value)
+    print('Checking if exists ', date_value)
 
     try:
-        print(os.makedirs(f'{origin}/{date_value}'))
+        if not os.path.isfile(f'{origin}/{date_as_file_value}.csv'):
+            print(os.makedirs(f'{origin}/{date_value}'))
+        else:
+            print(f'The download of {date_value} has already done')
+            return True
     except:
         print(f'The download of {date_value} has already done')
         return True

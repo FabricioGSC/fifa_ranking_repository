@@ -20,13 +20,13 @@ def __convert_women():
 def __proccess(origin: str):
     for i in os.listdir(f'{origin}/'):
         folder_abs_path = f'{os.getcwd()}/{origin}/{i}'
-        print(folder_abs_path)
         if(os.path.isdir(folder_abs_path)):
+            print(folder_abs_path)
             success = __convert_all_files(folder_abs_path, i, origin)
             if(success):
                 __remove_processed_files(folder_abs_path)
 
-def __change_order_name(name: str):
+def change_order_name(name: str):
     sp = name.split('_')
     return f'{sp[2]}_{__get_number_of_month(sp[1])}_{sp[0]}'
 
@@ -36,7 +36,7 @@ def __get_number_of_month(month: str):
 def __convert_all_files(path: str, folder_name: str, origin: str) -> bool:
     print(f'Ready to convert all files in {path} - {folder_name}')
     try:
-        file = open(f'{origin}/{__change_order_name(folder_name)}.csv', 'w')
+        file = open(f'{origin}/{change_order_name(folder_name)}.csv', 'w')
         csv_writer = csv.writer(file)
         headers = ['pos','team','iso-alfa-3','total_points','previous_points','variation','positions']
 
