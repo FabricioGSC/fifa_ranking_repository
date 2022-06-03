@@ -8,6 +8,7 @@ import os, time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import convert_csv
+import csv
 
 driver = webdriver.Firefox()
 
@@ -18,17 +19,15 @@ def main():
     time.sleep(5.0)
     men_ranking()
     women_ranking()
-    convert_csv.convert()
-    
 
 def men_ranking():
     driver.get('https://www.fifa.com/fifa-world-ranking/men')
-    download('men')
+    download('dataset/men')
     print('Finish to download men\'s ranking table')
 
 def women_ranking():
     driver.get('https://www.fifa.com/fifa-world-ranking/women')
-    download('women')
+    download('dataset/women')
     print('Finish to download women\'s ranking table')
 
 def download(origin: str):
@@ -45,27 +44,28 @@ def download(origin: str):
     
     drops = list(filter(lambda x: ('ff-dropdown_dropupContentButton' in x.get_attribute('class')) , drops))
     
-    print(f'We\'ve found {len(drops)} updates from this website')
+    print(f'We\'ve found {len(drops)} ranking tables from this website')
 
     selector = driver.find_element(By.CSS_SELECTOR, '.card-heading-tiny')
     
     find_next_button()
 
-    for drop in drops:
+    for drop in reversed(drops):
         date_value: str = drop.get_attribute('innerText')
         date_value = date_value.replace(' ','_')
         
-        # Not continue to check other dates
-        if(check_if_already_exists(date_value, origin)):
-            break
-        else:
+        if(not check_if_already_exists(date_value, origin)):
+            print('Não Existe')
             next_page_button.send_keys(Keys.HOME)
             time.sleep(1.0)
             selector.click()
             drop.click()
             time.sleep(2.0)
             download_table(date_value, origin)
-
+            convert_csv.convert(origin)
+        else:
+            print('EXISTE')
+        
 
     time.sleep(5.0)
 
@@ -78,22 +78,37 @@ def check_button_of_trust():
         pass    
         
 
-def check_if_already_exists(date_value: str, origin: str) -> bool:
+def check_if_already_exists(date_value: str, origin: str):
 
     date_as_file_value = convert_csv.change_order_name(date_value)
-    print('Checking if exists ', date_value)
+    print('Checking if exists ', date_as_file_value)
 
     try:
-        if not os.path.isfile(f'{origin}/{date_as_file_value}.csv'):
+        if not os.path.isfile(f'{origin}.csv'):
+            file = open(f'{origin}.csv', "w")
+            csv_writer = csv.writer(file)
+            headers = ['date','pos','team','iso-alfa-3','total_points','previous_points','diff','var']
+
+            csv_writer.writerow(headers)
+            file.close()
             print(os.makedirs(f'{origin}/{date_value}'))
+            return False
         else:
             print(f'The download of {date_value} has already done')
-            return True
+            found = False
+            file = open(f'{origin}.csv', "r")
+            for line in file:
+                if(line.startswith(date_as_file_value.replace('_','-'))):
+                    found = True;
+            file.close()
+
+            if not found:
+                print(os.makedirs(f'{origin}/{date_value}'))
+
+            return found
     except:
         print(f'The download of {date_value} has already done')
         return True
-    
-    return False
 
 def download_table(date_value, origin):
     page_count = 0
